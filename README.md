@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kruckiss
-- 👀 I’m interested in coding C/C++
+- 👀 I’m interested in coding not only HTML, CSS, JS soon, but also C/C++ and JAVA!
 - 🌱 I’m currently learning both of this language ^ :)
 - 💞️ I’m looking to collaborate on some begginers projects
 - 📫 How to reach me ...
